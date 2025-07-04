@@ -1,0 +1,10 @@
+<mvc:View
+  controllerName="com.tuempresa.holamundo.controller.App"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns="sap.m">
+  <Page title="{i18n>appTitle}">
+    <content>
+      <Text text="{i18n>description}" />
+    </content>
+  </Page>
+</mvc:View>
